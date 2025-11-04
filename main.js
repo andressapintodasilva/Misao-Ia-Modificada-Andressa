@@ -17,7 +17,7 @@ const perguntas = [
                 ]
     
     texto: " Frequentemente ",
-                afirmacao:  [
+                afirmacao: [
                     "Quando a ansiedade chega, você respira, aceita o que sente e lembra que tem recursos para  se acalmar. ",
                     "afirmacao 2",
                     "afirmacao 3"
@@ -32,7 +32,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: " Eu foco na respiração, fazendo-a de forma lenta e controlada, e também escrevo sobre meus sentimentos para processá-los. ",
-                afirmacao:  [
+                afirmacao: [
                     " Essa abordagem demonstra uma maneira eficaz de lidar com a ansiedade, pois combina técnicas de relaxamento físico, como a respiração controlada, com a expressão emocional, por meio da escrita. ",
                     "afirmacao 2",
                     "afirmacao 3"
@@ -54,7 +54,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: " Não, os sintomas da ansiedade são apenas emocionais. ",
-                afirmacao:  [
+                afirmacao: [
                     " Palpitações, sudorese, tontura e tensão muscular são manifestações físicas comuns da ansiedade, resultantes da ativação do sistema nervoso. ",
                     "afirmacao 2",
                     "afirmacao 3"
@@ -62,7 +62,7 @@ const perguntas = [
             },
             {
                 texto: " Sim, o corpo reage à ansiedade como se estivesse em perigo real. ",
-                afirmacao:  [ 
+                afirmacao: [
                     " O corpo reage à ansiedade como se estivesse em perigo real para enfrentar ou fugir de uma ameaça, o que explica os sintomas físicos como batimentos cardíacos acelerados, respiração ofegante e tensão muscular.-",
                     "afirmacao 2",
                     "afirmacao 3"
@@ -77,16 +77,16 @@ const perguntas = [
                 texto: " Sim ",
                 afirmacao: [
                     " Quando a ansiedade interferir no seu trabalho ou estudos, busque estratégias para retomar o equilíbrio. ",
-                    "afirmacao2", 
+                    "afirmacao2",
                     "afirmacao 3"
                 ]
             },
             {
                 texto: " Não",
-                afirmacao:[
-                     " Como a ansiedade não atrapalha nas suas atividades, aproveite esse estado de tranquilidade para manter meu foco e produtividade.  ",
-                     "afirmacao 2",
-                     "afirmacao 3"
+                afirmacao: [
+                    " Como a ansiedade não atrapalha nas suas atividades, aproveite esse estado de tranquilidade para manter meu foco e produtividade.  ",
+                    "afirmacao 2",
+                    "afirmacao 3"
                 ]
             }
         ]
@@ -96,15 +96,15 @@ const perguntas = [
         alternativas: [
             {
                 texto: " Não, elas são ineficazes para sintomas de ansiedade. ",
-                afirmacao:[
-                     "A afirmação de que meditação e exercícios de respiração são ineficazes é falsa. Na verdade, essas práticas são ferramentas valiosas e acessíveis para o gerenciamento da ansiedade. ",
-                     "afirmacao 2",
-                     "afirmacao 3"
+                afirmacao: [
+                    "A afirmação de que meditação e exercícios de respiração são ineficazes é falsa. Na verdade, essas práticas são ferramentas valiosas e acessíveis para o gerenciamento da ansiedade. ",
+                    "afirmacao 2",
+                    "afirmacao 3"
                 ]
             },
             {
                 texto: " Sim, elas ajudam a acalmar o sistema nervoso e a focar a mente. ",
-                afirmacao:[ 
+                afirmacao: [
                     " Ao focar a atenção na respiração e no momento presente, essas práticas ajudam a reduzir a frequência cardíaca, a pressão arterial e a liberar a tensão muscular, combatendo os sintomas físicos da ansiedade. ",
                     "afirmacao 2",
                     "afirmacao 3"
