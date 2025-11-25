@@ -91,7 +91,7 @@ const perguntas = [
 
 {
     enunciado: " Práticas como meditação e exercícios de respiração podem realmente ajudar a controlar a ansiedade?",
-        alternativas; [
+        alternativas;[
             {
                 texto: " Não, elas são ineficazes para sintomas de ansiedade.",
                 afirmacao: [
