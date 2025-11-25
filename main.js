@@ -79,7 +79,7 @@ const perguntas = [
                 " Você reconhece que a ansiedade provoca respostas físicas intensas em seu corpo, semelhantes a situações de risco."
             ]
         },
-{
+
         texto: " Não",
         afirmacao: [
             "Como a ansiedade não atrapalha nas suas atividades, aproveite esse estado de tranquilidade para manter meu foco e produtividade.",
@@ -88,10 +88,10 @@ const perguntas = [
         ]
     }
 ]
-},
+
 {
     enunciado: " Práticas como meditação e exercícios de respiração podem realmente ajudar a controlar a ansiedade?",
-        alternativas: [
+        alternativas; [
             {
                 texto: " Não, elas são ineficazes para sintomas de ansiedade.",
                 afirmacao: [
@@ -111,10 +111,8 @@ const perguntas = [
 
             }
         ]
-},
-];
-
-
+}
+;
 
 let atual = 0;
 let perguntaAtual;
